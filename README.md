@@ -8,7 +8,7 @@ just a simple multicast_router
 - vsim : vcs  
 
 ## simulation
-run as (in vsim directory) : 
+run as (in vsim directory) :   
 '''makefile  
  make comp  # compile and run  
  make run   # run  
