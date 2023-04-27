@@ -9,9 +9,8 @@ just a simple multicast_router
 
 ## simulation
 run as (in vsim directory) :   
-'''makefile  
+```makefile  
  make comp  # compile and run  
  make run   # run  
  make dve   # see dump  
-'''
-
+```  
