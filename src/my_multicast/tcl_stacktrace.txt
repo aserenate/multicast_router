@@ -1,0 +1,7 @@
+Wed May 03 21:51:39 CST 2023
+Trace back: can't read "map(?)": no such element in array
+    while executing
+"quit"
+    (command for "WM_DELETE_WINDOW" window manager protocol)
+  <2:D:/modeltech64_10.5/win64/tk8.5/bgerror.tcl:92: ::tkerror {can't read "map(?)": no such element in array}
+  <1:eval:1: ::tk::dialog::error::bgerror {can't read "map(?)": no such element in array}
